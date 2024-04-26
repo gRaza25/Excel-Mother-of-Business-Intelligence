@@ -1,8 +1,8 @@
-# Excel-Mother-of-Business-Intelligence
+# Excel: Mother-of-Business-Intelligence
 
 Welcome to the repository for the Projects and tools developed during my journey through the Excel - Mother of Business Intelligence Course from Codebasics Data Analytics Bootcamp.
 
-## Sales Report
+## Sales Report 📊
 
 - **Project Objective:** 
     1. Create a [customer performance report](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Sales_Analytics_Report.pdf).
@@ -17,14 +17,14 @@ Welcome to the repository for the Projects and tools developed during my journey
 - **Role of Reports:** 
     - Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-## Finance Report
+## Finance Report 💰
 
 - **Project Objective:** 
     1. Create Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Finance_Analytics_Report.pdf) & [Months](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Finance_Analytics_Report.pdf).
     2. Create Profit and Loss (P&L) reports by [Markets](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/AtliQ_Finance_Analytics_Assignment.pdf).
 
 - **Purpose of Finance Analytics:** 
-    - Evaluation of financial performance, support decision-making and facilitate communication with stakeholders.
+    - Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
     
 - **Importance of Analyzing Finance Data:** 
     - Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
@@ -32,7 +32,7 @@ Welcome to the repository for the Projects and tools developed during my journey
 - **Role of Reports:** 
     - Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
-## Project Priority Matrix in Excel
+## Project Priority Matrix in Excel 🎨
 
 - Developed a project priority matrix in Excel to effectively prioritize tasks based on urgency and importance.
 - Utilized conditional formatting and data validation to enhance visualization and user interaction.
@@ -42,7 +42,7 @@ Welcome to the repository for the Projects and tools developed during my journey
 
 [Project Priority Matrix](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/Project%20Priority%20Matrix.pdf)
 
-## Scenario Planning Tool
+## Scenario Planning Tool 📈
 
 - Created a scenario planning tool in Excel to analyze various business scenarios and their potential impact on financial outcomes.
 - Integrated dynamic data tables and scenario analysis techniques to evaluate different business strategies.
@@ -52,7 +52,7 @@ Welcome to the repository for the Projects and tools developed during my journey
 
 [Scenario Planning Tool](https://github.com/gRaza25/Excel-Mother-of-Business-Intelligence/blob/main/Scenario%20Planning%20Tool.pdf)
 
-## Technical & Soft Skills
+## Technical & Soft Skills 🛠️
 
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
@@ -61,7 +61,7 @@ Welcome to the repository for the Projects and tools developed during my journey
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills
+## Soft Skills 🧠
 
 - [x]	Refined understanding of Sales & Finance Reports.
 - [x]	Designing user-centric reports with empathy in mind.
